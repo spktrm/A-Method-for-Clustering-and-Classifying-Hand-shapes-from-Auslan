@@ -1,6 +1,6 @@
 # A-Method-Clustering-and-Classifying-Hand-shapes-from-Auslan
 
-![demo](demo.gif =300x)
+![demo](demo.gif)
 
 ## How to use
 
