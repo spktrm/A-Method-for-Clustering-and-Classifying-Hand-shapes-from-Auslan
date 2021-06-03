@@ -1,4 +1,4 @@
-# A-Method-Clustering-and-Classifying-Hand-shapes-from-Auslan
+# A Method for Clustering and Classifying Hand shapes from Auslan
 
 ![demo](demo.gif)
 
