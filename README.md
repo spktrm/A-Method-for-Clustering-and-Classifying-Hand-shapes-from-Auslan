@@ -17,6 +17,6 @@ Next, use the make_hand_model.py script to train a full connected network. Be ca
 Finally, Use posenet_video.py script to classify your handshapes from data has been collected. Make sure this script references your trained hand model
 
 ## Optional 
-For accuracy and performance metrics, use the classification_report.py script to see your models accuracy 
+For accuracy and performance metrics, use the classification_report.py script to see your model's accuracy 
 
 Scripts that end in "clustering.py" and "crop_hand.py" are used for clustering from a video source, where the number of hand shapes are unknown.
