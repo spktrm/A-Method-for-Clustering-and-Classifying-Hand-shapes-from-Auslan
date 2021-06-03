@@ -2,16 +2,16 @@
 
 ## How to use
 
-** Step 1 **
+**Step 1**
 Use the get_signs.py script to create your data set or Auslan signs.
 
-** Step 2 **
+**Step 2**
 Then use the create_data.py script to run the MediaPipe framework over your collected data to create a dataset for training a fully connected network.
 
-** Step 3 **
+**Step 3**
 Next, use the make_hand_model.py script to train a full connected network. Be careful to examine the directory references.
 
-** Step 4 **
+**Step 4**
 Finally, Use posenet_video.py script to classify your handshapes from data has been collected. Make sure this script references your trained hand model
 
 ## Optional 
