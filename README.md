@@ -1,5 +1,7 @@
 # A-Method-Clustering-and-Classifying-Hand-shapes-from-Auslan
 
+![demo](demo.gif "Title")
+
 ## How to use
 
 ### Step 1:
