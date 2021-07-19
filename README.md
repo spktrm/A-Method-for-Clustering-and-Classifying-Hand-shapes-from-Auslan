@@ -5,7 +5,7 @@
 ## How to use
 
 ### Step 1:
-Use the get_signs.py script to create your data set or Auslan signs.
+Use the get_signs.py script to create your data set of Auslan signs.
 
 ### Step 2:
 Then use the create_data.py script to run the MediaPipe framework over your collected data to create a dataset for training a fully connected network.
